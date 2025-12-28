@@ -1,5 +1,3 @@
 ﻿namespace TaskService;
 
-public interface IAssemblyMarker
-{
-}
+public interface IAssemblyMarker;

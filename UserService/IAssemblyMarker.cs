@@ -1,5 +1,3 @@
 ﻿namespace UserService;
 
-public interface IAssemblyMarker
-{
-}
+public interface IAssemblyMarker;

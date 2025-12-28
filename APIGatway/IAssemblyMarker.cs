@@ -1,5 +1,3 @@
 ﻿namespace APIGateway;
 
-public interface IAssemblyMarker
-{
-}
+public interface IAssemblyMarker;
