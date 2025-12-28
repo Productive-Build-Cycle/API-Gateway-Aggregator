@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="APIGatway/APIGateway.csproj" />
+  <Project Path="TaskService/TaskService.csproj" Id="617e6be2-2809-4b47-812f-e5bb58528aec" />
+  <Project Path="UserService/UserService.csproj" Id="c3ddb955-a431-4eed-a334-ad3d763675eb" />
+</Solution>

@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "wfxzttALa9g=",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\APIGatway\\UserService\\UserService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ArmanPC\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0-rc.2.25502.107\\microsoft.aspnetcore.openapi.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\ArmanPC\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.1\\microsoft.entityframeworkcore.10.0.1.nupkg.sha512",
+    "C:\\Users\\ArmanPC\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.1\\microsoft.entityframeworkcore.abstractions.10.0.1.nupkg.sha512",
+    "C:\\Users\\ArmanPC\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.1\\microsoft.entityframeworkcore.analyzers.10.0.1.nupkg.sha512",
+    "C:\\Users\\ArmanPC\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.1\\microsoft.extensions.caching.abstractions.10.0.1.nupkg.sha512",
+    "C:\\Users\\ArmanPC\\.nuget\\packages\\microsoft.extensions.caching.memory\\10.0.1\\microsoft.extensions.caching.memory.10.0.1.nupkg.sha512",
+    "C:\\Users\\ArmanPC\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.1\\microsoft.extensions.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\ArmanPC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.1\\microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512",
+    "C:\\Users\\ArmanPC\\.nuget\\packages\\microsoft.extensions.logging\\10.0.1\\microsoft.extensions.logging.10.0.1.nupkg.sha512",
+    "C:\\Users\\ArmanPC\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.1\\microsoft.extensions.logging.abstractions.10.0.1.nupkg.sha512",
+    "C:\\Users\\ArmanPC\\.nuget\\packages\\microsoft.extensions.options\\10.0.1\\microsoft.extensions.options.10.0.1.nupkg.sha512",
+    "C:\\Users\\ArmanPC\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.1\\microsoft.extensions.primitives.10.0.1.nupkg.sha512",
+    "C:\\Users\\ArmanPC\\.nuget\\packages\\microsoft.openapi\\2.3.0\\microsoft.openapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\ArmanPC\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.0\\swashbuckle.aspnetcore.swagger.10.1.0.nupkg.sha512",
+    "C:\\Users\\ArmanPC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.0\\swashbuckle.aspnetcore.swaggergen.10.1.0.nupkg.sha512",
+    "C:\\Users\\ArmanPC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.0\\swashbuckle.aspnetcore.swaggerui.10.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
