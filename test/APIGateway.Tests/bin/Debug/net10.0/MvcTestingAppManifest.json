@@ -1,0 +1,5 @@
+{
+  "APIGateway, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Projects\\APIGatway\\src\\APIGatway",
+  "TaskService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Projects\\APIGatway\\src\\TaskService",
+  "UserService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Projects\\APIGatway\\src\\UserService"
+}

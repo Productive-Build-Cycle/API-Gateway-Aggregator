@@ -3,15 +3,15 @@
     "Name": "New Profile",
     "Projects": [
       {
-        "Path": "APIGatway\\APIGateway.csproj",
+        "Path": "src\\APIGatway\\APIGateway.csproj",
         "Action": "Start"
       },
       {
-        "Path": "UserService\\UserService.csproj",
+        "Path": "src\\TaskService\\TaskService.csproj",
         "Action": "Start"
       },
       {
-        "Path": "TaskService\\TaskService.csproj",
+        "Path": "src\\UserService\\UserService.csproj",
         "Action": "Start"
       }
     ]

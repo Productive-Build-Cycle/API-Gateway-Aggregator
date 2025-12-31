@@ -1,5 +1,10 @@
 <Solution>
-  <Project Path="APIGatway/APIGateway.csproj" />
-  <Project Path="TaskService/TaskService.csproj" Id="617e6be2-2809-4b47-812f-e5bb58528aec" />
-  <Project Path="UserService/UserService.csproj" Id="c3ddb955-a431-4eed-a334-ad3d763675eb" />
+  <Folder Name="/src/">
+    <Project Path="src/APIGatway/APIGateway.csproj" />
+    <Project Path="src/TaskService/TaskService.csproj" />
+    <Project Path="src/UserService/UserService.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/APIGateway.Tests/APIGateway.Tests.csproj" Id="83b10a9d-15ea-4f53-84e2-96dac15be3a6" />
+  </Folder>
 </Solution>
